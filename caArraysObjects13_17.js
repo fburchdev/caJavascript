@@ -1,0 +1,1 @@
+var myArray = [1, true, "Frances", {key1: "parsley", key2: "sage", key3: "rosemary"}];
