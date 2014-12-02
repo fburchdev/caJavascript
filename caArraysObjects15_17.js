@@ -1,0 +1,1 @@
+var newArray = [[1, "Frances", {key1: "do", key2: "rei", key3: "me"}],[6]];
